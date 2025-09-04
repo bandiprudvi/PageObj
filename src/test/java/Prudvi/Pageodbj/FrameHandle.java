@@ -64,6 +64,11 @@ public class FrameHandle extends Baseclass  {
 	}
 	//Updated master
 	
+	public void cam() {}
+	
+	public void cam1() {}
+	public void cam2() {}
+	
 	
 
 	
