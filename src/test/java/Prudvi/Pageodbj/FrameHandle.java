@@ -63,6 +63,11 @@ public class FrameHandle extends Baseclass  {
 		
 	}
 	
+	//public void main
+	//public void main
+	//public void main
+	//public void main
+	
 	
 
 	
