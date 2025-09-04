@@ -60,17 +60,10 @@ public class FrameHandle extends Baseclass  {
 		framePageObj.outerText("OUTERLOOP DONE");
 		
 		 Thread.sleep(3000);
+		 //Master
 		
 	}
-	//Added in Name
-	//Added in Name
-	//public void main
-<<<<<<< HEAD
-	//Added on Team
-=======
-	//Added in Name
->>>>>>> develop
-//Added in Name	
+	
 	
 
 	
