@@ -64,8 +64,12 @@ public class FrameHandle extends Baseclass  {
 	}
 	
 	//public void main
+<<<<<<< HEAD
 	//Added on Team
-	
+=======
+	//Added in Name
+>>>>>>> develop
+//Added in Name	
 	
 
 	
